@@ -12,3 +12,5 @@ console.log("this is supriya");
 var FirstName="OTS Solutions";
 console.log(FirstName);
 >>>>>>> 9900b5bc33b110207bc57531d3e727a1a5bf36cf
+
+console.log("conflict resolve")
